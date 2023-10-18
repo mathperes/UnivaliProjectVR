@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 806221825899093677}
   - component: {fileID: 311187084488117668}
   - component: {fileID: 2634638748237478770}
-  - component: {fileID: 327923235498974953}
   m_Layer: 0
   m_Name: V_Medieval01_Armadura_Escudo
   m_TagString: Untagged
@@ -291,25 +290,3 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
---- !u!64 &327923235498974953
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4275728311468207681}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 2528968781470736393, guid: e4e6b8757ebfc574fa874f413e27243e, type: 3}
